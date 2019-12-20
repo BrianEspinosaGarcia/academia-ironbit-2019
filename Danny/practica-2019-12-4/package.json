@@ -1,0 +1,15 @@
+{
+  "name": "esplais",
+  "version": "1.0.0",
+  "description": "'run Pruebas Unitarias for Esplais'",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive -u tdd"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "author": "DannoDanny",
+  "license": "ISC"
+}
